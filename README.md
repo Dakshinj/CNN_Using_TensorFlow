@@ -1,4 +1,4 @@
-# CNN_Using_TensorFlow
+# CNN Using TensorFlow
 
 CNN model built and trained from scratch using Tensorflow.
 
